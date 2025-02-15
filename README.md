@@ -8,4 +8,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifernandopp3anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopp3&show_icons=true&count_private=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fernandopp3=usuario&layout=compact)
+
+
+
