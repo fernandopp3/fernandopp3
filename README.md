@@ -9,10 +9,14 @@ Here are some ideas to get you started:
 - 🌱 Eu estou me formando em analise e desenvolvimento de sistemas ...
 - 👯 Meu projeto de TCC foi o app fithub ...
 # GitHub Stats
+# GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopp3&show_icons=true&count_private=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopp3&show_icons=true&count_private=true&hide_title=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fernandopp3=usuario&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fernandopp3=usuario&layout=compact&theme=dracula)
+
+
 
 
 
