@@ -3,7 +3,7 @@
 Sou um entusiasta da tecnologia e programador em constante evolução. Com formação em **Análise e Desenvolvimento de Sistemas**, estou sempre buscando aprender novas linguagens e frameworks para resolver problemas de forma criativa. Atualmente, busco oportunidades de trabalho para aplicar minhas habilidades em desenvolvimento de software e contribuir para soluções inovadoras.
 
 ### 🛠️ Tecnologias e Ferramentas
-- 💻 **Linguagens**: C++, Python, JavaScript
+- 💻 **Linguagens**: C++, Python, JavaScript, Java, CSS/HTML, PHP
 - 🧰 **Ferramentas**: VSCode, Git, GitHub
 - 🌱 **Atualmente aprendendo**: Estruturas de dados e algoritmos avançados, Machine Learning
 
